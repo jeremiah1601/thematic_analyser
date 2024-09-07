@@ -1,0 +1,233 @@
+[
+    {
+        "post_id": 1,
+        "content": {
+            "title": "Looking for advice from community",
+            "points": [
+                "Parent dismisses their feelings about their drinking",
+                "Parent controls life and still sees them as a child",
+                "Family guilt trips them",
+                "Husband helps them to set boundaries",
+                "Feels guilt and self-doubt when setting boundaries with parent"
+            ],
+            "replies": [
+                "Advice for poster → it’s okay to set boundaries, it’s not selfish, guilt vs shame, recommended books"
+            ]
+        }
+    },
+    {
+        "post_id": 2,
+        "content": {
+            "title": "Parent has been through trauma",
+            "points": [
+                "Helped raise themselves and their siblings",
+                "Grew up acutely aware of parents’ emotions",
+                "Worried about their parents’ emotions",
+                "Parents’ problems became their own",
+                "Parent ignores boundaries",
+                "Feel bad for sticking to boundaries of low contact"
+            ],
+            "replies": [
+                "Recommended books, validating emotions"
+            ]
+        }
+    },
+    {
+        "post_id": 3,
+        "content": {
+            "title": "Gone low contact with parent to protect their own family",
+            "points": [
+                "Hate seeing parent sad and lonely",
+                "Feel bad for parent but I know who she is"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 4,
+        "content": {
+            "title": "Mixed emotions; mother died from alcoholism and wedding is coming up",
+            "points": [
+                "Sadness mother won't be there but also relief that she isn’t there to ruin the day like most special occasions",
+                "Guilt about not wanting to invite father to wedding",
+                "Knows what they should do but guilt is consuming them - feel horrible"
+            ],
+            "replies": [
+                "Lots relating about wedding planning, parent sabotaging good things, guilt vs shame"
+            ]
+        }
+    },
+    {
+        "post_id": 5,
+        "content": {
+            "title": "Switch flipped in me when parent was hospitalised due to drinking",
+            "points": [
+                "Feel guilty for setting boundaries",
+                "Parent has done a lot for me",
+                "Parent doesn’t see the issue with their drinking",
+                "I have guilt for treating them badly but I have a lot of resentment"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 6,
+        "content": {
+            "title": "Conversations with husband about how to handle parent when they have kids",
+            "points": [
+                "Parent put grandchild in danger due to drinking",
+                "Parent is guilt tripping me, makes me feel crazy for being upset with them"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 7,
+        "content": {
+            "title": "Guilt for leaving siblings, but need to be free",
+            "points": [
+                "Know I should focus on myself but I can’t help feelings"
+            ],
+            "replies": [
+                "Reassure the need to focus on self",
+                "Insight from someone who was the sibling left behind"
+            ]
+        }
+    },
+    {
+        "post_id": 8,
+        "content": {
+            "title": "Hurts when parent is nice",
+            "points": [
+                "Guilt for thinking bad things",
+                "Easier to cope when they’re mean and unsupportive"
+            ],
+            "replies": [
+                "Empathise; harder with mixed behaviours, advice on how to deal with this"
+            ]
+        }
+    },
+    {
+        "post_id": 9,
+        "content": {
+            "title": "Need to know I’m not the first person to go through this",
+            "points": [
+                "No desire to have children because raising my mom was enough",
+                "I feel like the parent",
+                "As she calls me and vents/cries, I just sit and listen",
+                "She used to call me coldhearted but it’s just a defence mechanism to protect self",
+                "Tried distancing self, but it’s so draining",
+                "Always felt the need to defend my mom, I’m the only one who gets her",
+                "I wonder if I’d send her into a drinking spiral if I put all of this on the table",
+                "I know something has to change, but I have constant fear and guilt of what it’ll do to her"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 10,
+        "content": {
+            "title": "35 years old, in a weird purgatory",
+            "points": [
+                "I think it might be better when they’re gone. But I know it won’t. I feel guilty for typing that, scared of the guilt I’ll feel."
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 11,
+        "content": {
+            "title": "No contact with mom and guilt is hitting me hard",
+            "points": [
+                "I know mom’s feelings are not my responsibility, I know that in my head",
+                "Every cell in my body is screaming 'you have to fix this and make her feel better'",
+                "Role reversal",
+                "I know there’s nothing I can do to help her",
+                "Guilt, emotional pain, anxiety",
+                "I don’t want to contact her but I feel like I should"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 12,
+        "content": {
+            "title": "I was warned about feelings of guilt when I considered going no contact",
+            "points": [
+                "Not true in my case → giant weight has been lifted off of me"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 13,
+        "content": {
+            "title": "For most of my 20s, I never shared that my parent were alcoholics",
+            "points": [
+                "Me and husband distanced ourselves greatly",
+                "No contact is easier because I don’t have the tools to explain to them all how I feel",
+                "I have kids, so I need to have strong boundaries",
+                "Felt shame for sharing my experience with SIL",
+                "I always feel stupid for opening up and I feel like I have nothing worthwhile to share"
+            ],
+            "replies": []
+        }
+    },
+    {
+        "post_id": 14,
+        "content": {
+            "title": "Felt 100% responsible for mom’s alcoholism between ages 8-12 years",
+            "points": [
+                "It was unbearable, frightening and completely destroyed me",
+                "Something I carry with me to this day",
+                "Spend hours and hours ruminating on something I’ve done and whether it makes me a bad person, or being anxious over things that might happen",
+                "Does anyone else have this?"
+            ],
+            "replies": [
+                "I have the guilt and ruminating feelings, I know this came from dysfunctional childhood",
+                "It’s crazy how these thoughts and feelings are stuck in us",
+                "Recommended books that helped them"
+            ]
+        }
+    },
+    {
+        "post_id": 15,
+        "content": {
+            "title": "Anyone else envy normal families?",
+            "points": [],
+            "replies": [
+                "Yup, extremely envious. Always wonder how my life would've been different.",
+                "Same here. I resent them for getting everything so easy compared to me even though I try really hard not to. Every time I go to one of my friends' houses and interact for a whole day I come home feeling empty and cry hard all the way."
+            ]
+        }
+    },
+    {
+        "post_id": 16,
+        "content": {
+            "title": "I’ve never heard of ACA until this year during therapy",
+            "points": [
+                "Since then I have realised how much growing up with an alcoholic parent has affected me in life and definitely affected my relationships.",
+                "I tend to be a people pleaser but also avoid conflict at all cost.",
+                "Sometimes I just isolate myself or shut down completely to avoid conflict. My therapist called it stonewalling.",
+                "I have a hard time opening up and being vulnerable even with my partner of 3 years.",
+                "Ultimately this has negatively affected my relationship"
+            ],
+            "replies": [
+                "Same to everything you just said. And when I DO get vulnerable, I just sob uncontrollably even though I’m trying hard not to.",
+                "This post was made for me, I relate to a lot of what you said. We’ve been doing communication therapy which has helped a lot. It is possible to improve this but you have to do the work.",
+                "Recommended Gottman."
+            ]
+        }
+    },
+    {
+        "post_id": 17,
+        "content": {
+            "title": "Finding it hard to determine when I should show compassion for my dad",
+            "points": [
+                "When to draw a boundary without being riddled with guilt.",
+                "I have deep guilt in life generally but especially with my parents who cannot possibly take care of themselves.",
+                "I have my own internal rules of when to help them but they’re inconsistent due to guilt and lack of boundaries",
+                "My therapist explained to me that I am the child, he is the parent"]
+            }
+        }
+    ]
